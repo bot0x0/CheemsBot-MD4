@@ -58,12 +58,12 @@ global.vcardowner = ['917604073837'] //ur owner number
 global.ownername = "🦄Dream Guy Xeon" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "India, West Bengal, kolkata" //ur location
 
 //bot bomdy 
 global.owner = ['917604073837']
 global.ownertag = '917604073837' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.botname = 'Xeno' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
